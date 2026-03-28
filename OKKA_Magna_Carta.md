@@ -540,7 +540,60 @@ All IP currently held personally by Bibiana Xausa Bosak. Target: formally assign
 OÜ → licenses to ASBL (academy programme, books, methodologies for delivery)
 OÜ → licenses to Startup OÜ when created (platform, the birds, product IP)
 
-**Status: PENDING — session with Edgars**
+**Status: PENDING — session needed
+
+### Legal Ledger — IP & Knowledge Registry
+
+*The formal record of what OKKA owns, who holds it, what needs contracts, and who uses it.*
+*Status: WORKING REGISTRY — contracts pending session with Edgars Gūte.*
+*Owner: Bibiana Xausa Bosak → to be assigned to OKKA Expanded Intelligence OÜ via IP Assignment Agreement.*
+
+| # | Name | Type | Owner (now) | Transfer to OÜ | Contract ready | Contract link | Used by |
+|---|------|------|-------------|----------------|----------------|---------------|---------|
+| IP-001 | The 11-Layer AI Orchestration Framework | Framework | Bibiana | ⏳ Pending assignment | ❌ No | — | OÜ · Startup · ASBL |
+| IP-002 | The Round Table Protocol | Governance system | Bibiana | ⏳ Pending assignment | ❌ No | — | OÜ · Startup |
+| IP-003 | The ADHD Dance Methodology | Methodology | Bibiana | ⏳ Pending assignment | ❌ No | — | ASBL · Serena · Jean |
+| IP-004 | Neurodivergent-First Design Principles | Framework | Bibiana | ⏳ Pending assignment | ❌ No | — | OÜ · Startup · ASBL |
+| IP-005 | The Forest Architecture | Concept | Bibiana | ⏳ Pending assignment | ❌ No | — | OÜ · all trees |
+| IP-006 | Ok, AI. Now What? (Book 1) | Book / IP | Bibiana | ⏳ Pending assignment | ❌ No | — | ASBL (academy delivery) |
+| IP-007 | Homo Expansus | Book / IP | Bibiana | ⏳ Pending assignment | ❌ No | — | OÜ · academic |
+| IP-008 | The Roundtable Protocol (Book) | Book / IP | Bibiana | ⏳ Pending assignment | ❌ No | — | OÜ · academic |
+| IP-009 | ADHD Dance (Book) | Book / IP | Bibiana | ⏳ Pending assignment | ❌ No | — | ASBL |
+| IP-010 | Ok, AI. Now What? Academy (8 modules) | Programme | Bibiana | ⏳ Pending assignment | ❌ No | — | ASBL |
+| IP-011 | Seven Lenses Framework | Framework | Bibiana | ⏳ Pending assignment | ❌ No | — | OÜ · research |
+| IP-012 | The Awesome Minds Series (15 volumes) | Research programme | Bibiana | ⏳ Pending assignment | ❌ No | — | ASBL |
+| IP-013 | Sofia — AI Intelligence Layer | Product / IP | OÜ (platform) | ✅ Lives in OÜ | ❌ No formal contract | — | Startup · all birds |
+| IP-014 | Sylvia — Platform | Product | OÜ (platform) | ✅ Lives in OÜ | ❌ No formal contract | — | Startup |
+
+*Commercial usage column: all IP above is for internal use and licensed delivery only. No commercial transfer authorised until IP Assignment Agreement is signed and licensing agreements are in place.*
+
+---
+
+### Internal Contract Structure — What Needs to Exist
+
+*⚠️ URGENT — no formal internal contracts exist yet. This table defines what needs to be created before any entity operates commercially.*
+
+| Contract | Between | Purpose | Status |
+|----------|---------|---------|--------|
+| IP Assignment Agreement | Bibiana → OÜ | Transfer all IP from personal to company | ❌ Not drafted · session with Edgars |
+| ASBL Licensing Agreement | OÜ → ASBL | License IP-003, IP-006, IP-010, IP-012 for delivery | ❌ Not drafted · pending IP assignment first |
+| Startup Licensing Agreement | OÜ → Startup OÜ | License platform IP, Sofia, birds for commercial use | ❌ Not drafted · pending Startup entity creation |
+| Founder Service Agreement | Bibiana ↔ OÜ | Define founder's role, compensation, and obligations to the company | ❌ Not drafted |
+| Co-Founder Agreement | OÜ ↔ Maria Regina | Define co-founder role, contribution, rights | ❌ Not drafted |
+| Co-Founder Agreement | OÜ ↔ Omar Tackla | Define technical cofounder role, formalise when runway secured | ❌ Not drafted · pending runway |
+
+*Nothing above blocks operations today. Everything above must exist before external investment, grant applications requiring legal structure, or any commercial licensing to third parties.*
+
+---
+```
+
+---
+
+That's the full section. One paste, into GitHub, after the IP Vault table.
+
+This gives you visibility on exactly what you own, what needs contracts, and what those contracts connect to. Every row is editable as things move forward.
+
+Ready for the next correction when you are.
 
 ---
 
