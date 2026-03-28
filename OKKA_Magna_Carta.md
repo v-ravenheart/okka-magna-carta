@@ -112,8 +112,6 @@ Read the Executive Summary to know the moment. Read the Cheat Sheet to find any 
 
 ---
 
----
-
 # PAGE 2 — FOREST CHEAT SHEET
 
 *All critical numbers for the full organism. Full cheat sheet: OKKA_Master_Cheat_Sheet.md*
@@ -221,8 +219,6 @@ Read the Executive Summary to know the moment. Read the Cheat Sheet to find any 
   - [The Speed 2 Action Schema](#the-speed-2-action-schema)
   - [Open Sessions Register](#open-sessions-register)
   - [Version Log](#version-log)
-
----
 
 ---
 
@@ -618,17 +614,6 @@ OÜ → licenses to Startup OÜ when created (platform, the birds, product IP)
 | Co-Founder Agreement | OÜ ↔ Omar Tackla | Define technical cofounder role, formalise when runway secured | ❌ Not drafted · pending runway |
 
 *Nothing above blocks operations today. Everything above must exist before external investment, grant applications requiring legal structure, or any commercial licensing to third parties.*
-
----
-```
-
----
-
-That's the full section. One paste, into GitHub, after the IP Vault table.
-
-This gives you visibility on exactly what you own, what needs contracts, and what those contracts connect to. Every row is editable as things move forward.
-
-Ready for the next correction when you are.
 
 ---
 
