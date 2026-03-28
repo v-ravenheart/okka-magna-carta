@@ -138,6 +138,27 @@ Read the Executive Summary to know the moment. Read the Cheat Sheet to find any 
 | ASBL documents | https://drive.google.com/drive/folders/1Q8Ne6bkoe68q9hdRAS45wVvenctfKDwG |
 | OÜ legal documents | https://drive.google.com/drive/folders/1gJR3NVcu6Ul49ajUI-wVF6ltbIV__UJ- |
 
+## Tools & Operational Costs
+
+*Full tools log: [OKKA_Tools_Log.md](https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKKA_Tools_Log.md)*
+*Last updated: 28 March 2026*
+
+| Tool | Account | Monthly € | Yearly € | Status |
+|------|---------|-----------|----------|--------|
+| Claude AI | tools@okka.ai | €90.00 | €1,080 | ✅ Active |
+| GPT | Bibiana | €20.00 | €240 | ✅ Active |
+| Google Workspace | its.v@okka.ai | €13.00 | €156 | ✅ Active |
+| Pixlr | 🔴 confirm | €8.00 | €96 | ✅ Active |
+| OpenArt | Bibiana | €14.50 | €174 | ✅ Active |
+| Lovable | bibi | ~€16.67 | ~€200 | ✅ Active |
+| OpusClip | Sigil | €10.08 | €121 | ⏸ Paused |
+| Runway | 🔴 confirm | 🔴 | 🔴 | ✅ Active |
+| Designerr | Bibi | — | €127 one-off | ✅ Active |
+| ElevenLabs | — | €0 | — | Free tier |
+| Supabase | via Lovable | €0 | — | ✅ Included |
+| GitHub | its.v@okka.ai | €0 | — | ✅ Free |
+| **TOTAL** | | **~€172.25** | **~€2,067** | |
+
 ---
 
 ---
