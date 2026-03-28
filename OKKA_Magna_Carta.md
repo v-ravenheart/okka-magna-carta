@@ -101,15 +101,6 @@ One month ago the organism was a collection of intentions. This week it became a
 **Status key:** ⚡ URGENT · 🔴 NOT STARTED · 🟡 IN PROGRESS · ✅ CLOSED
 
 ---
-```
-
----
-
-Paste this directly after the "Where we are going next" section and before "How to use this document" in Page 1.
-
-From this point forward — every session that produces a task, it gets a T-number and a row here. That's the discipline. Simple, visible, nothing falls through.
-
----
 
 ## How to use this document
 
