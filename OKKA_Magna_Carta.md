@@ -1,8 +1,7 @@
 # OKKA — THE FOREST
 ## Magna Carta — Constitutional Document
-Human URL: https://github.com/v-ravenheart/okka-magna-carta/blob/main/OKKA_Magna_Carta_Forest%20(1).md
-AI URL: https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKKA_Magna_Carta_Forest%20(1).md
-
+Human URL: https://github.com/v-ravenheart/okka-magna-carta/blob/main/OKKA_Magna_Carta.md
+AI URL: https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKKA_Magna_Carta.md
 ### The Written Version of the Mind Map
 
 *Note on naming: The forest is OKKA. "Expanded Intelligence" belongs to the OÜ entity specifically — OKKA Expanded Intelligence OÜ. At forest level, the organism is simply OKKA. The full organism, all its trees, all its roots.*
