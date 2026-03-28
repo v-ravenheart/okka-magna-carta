@@ -67,6 +67,50 @@ One month ago the organism was a collection of intentions. This week it became a
 
 ---
 
+## Execution Ledger
+
+*The live task register for the full organism. Every open item lives here.*
+*Updated every session. Never delete closed tasks — status moves to CLOSED.*
+*Speed 2 detail lives in Sylvia. This ledger holds the Speed 1 view — what matters at constitutional level.*
+
+| ID | Task | Tree | Branch | Date Identified | Date Started | Last Update | Status | Open From |
+|----|------|------|--------|----------------|--------------|-------------|--------|-----------|
+| T-001 | IP Assignment Agreement — Bibiana → OÜ | OÜ | Legal | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-002 | ASBL formal constitution — draft with lawyer | ASBL | Legal | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-003 | Shark tank preparation — SAACE approval | ASBL | Finance | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-004 | Financial session — burn rate + full projections | Forest | Finance | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-005 | Rachel presentation — French FAQ format | ASBL | Step Entreprendre | 27 Mar 2026 | — | 28 Mar 2026 | 🟡 IN PROGRESS | — |
+| T-006 | MEi:CogSci Vienna — motivation letter | Academic | Masters | 27 Mar 2026 | — | 28 Mar 2026 | ⚡ URGENT · Apr 7 | — |
+| T-007 | Zenodo Records A, B, C — upload | Academic | Publications | 27 Mar 2026 | — | 28 Mar 2026 | 🟡 IN PROGRESS | — |
+| T-008 | Startup programme applications — AWS · Microsoft · Oracle · NVIDIA · Google · Anthropic | Startup | Funding | 27 Mar 2026 | — | 28 Mar 2026 | 🟡 IN PROGRESS | — |
+| T-009 | Pedro Schmidt — brief and invite to founding council | ASBL | Governance | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | Before Brazil trip |
+| T-010 | Products registration in OÜ — formal platform registry | OÜ | Legal | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | T-001 |
+| T-011 | Seven Principles — full constitutional session | OÜ | Roots | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-012 | Knowledge roots inventory — full audit | OÜ | Roots | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-013 | ASBL Magna Carta — build | ASBL | Governance | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | T-002 |
+| T-014 | Startup Magna Carta stub — build | Startup | Governance | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | T-013 |
+| T-015 | Namecheap login — confirm | OÜ | Infrastructure | 28 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-016 | Runway login + yearly cost — confirm | OÜ | Tools | 28 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-017 | Pixlr login — confirm | OÜ | Tools | 28 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-018 | Lovable — confirm yearly cost + renewal date | OÜ | Tools | 28 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
+| T-019 | Business credit card decision — Amex vs Beobank | OÜ | Finance | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | T-004 |
+| T-020 | Magna Carta corrections from 28 Mar session — apply remaining | Forest | Governance | 28 Mar 2026 | 28 Mar 2026 | 28 Mar 2026 | 🟡 IN PROGRESS | — |
+
+---
+
+**Status key:** ⚡ URGENT · 🔴 NOT STARTED · 🟡 IN PROGRESS · ✅ CLOSED
+
+---
+```
+
+---
+
+Paste this directly after the "Where we are going next" section and before "How to use this document" in Page 1.
+
+From this point forward — every session that produces a task, it gets a T-number and a row here. That's the discipline. Simple, visible, nothing falls through.
+
+---
+
 ## How to use this document
 
 Read the Executive Summary to know the moment. Read the Cheat Sheet to find any number. Read the Table of Contents to navigate. The document is never finished. It grows with the organism. Every update carries a date. The date is the version.
