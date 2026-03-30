@@ -1214,6 +1214,9 @@ Every opportunity, every application, every project, every decision is a node. E
 | MCP connectors install | Hep + Cowork | HIGH | Playwright · Google Drive steipete · Perplexity · Blotato — to install in next session |
 | GitHub + ORCID connection | V | ✅ CLOSED | Connected 30 Mar 2026 |
 | ORCID not showing DOI entries | V + Cowork | MEDIUM | Zenodo records exist (13 live) but not appearing in ORCID profile — investigate sync |
+| Communication rhythm session | V + Cowork | HIGH | Define contact list, cadence, outreach template, Cowork brief. Wednesday slot. Proactive outreach: client follow-ups, council touches, cohort updates, partnerships. Deadline: Friday 4 April |
+| Opportunities crawl session | V + Cowork | HIGH | Define Perplexity search parameters for weekly opportunity scan. Geography: Belgium, Estonia, EU, Brazil. Themes: AI, neurodiversity, solo founders, social economy. ASBL + OÜ separately. Needs Perplexity MCP first. Feeds Freya pipeline. Deadline: Friday 4 April |
+| Academic pulse session | V + Cowork | HIGH | Define search parameters from research programme scope. Weekly scan: human-AI interaction, neurodivergent cognition, collective intelligence, expanded intelligence. Conference deadlines. Needs Perplexity MCP. Deadline: Friday 4 April |
 | Founding Advisory Cohort reveal | V | LOW | Deferred to end of year launch — 12 seats, names held until then |
 
 ---
