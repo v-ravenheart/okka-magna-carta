@@ -2,6 +2,15 @@
 
 Last updated: 30 March 2026
 
+## ⚡ URGENT DEADLINES
+
+- [ ] **March 31 (TOMORROW)** — SAACE profile update
+- [ ] **March 31 (TOMORROW)** — Reply to Rachel's email
+- [ ] April 7 — MEi:CogSci Vienna motivation letter
+- [ ] April 8 — Rachel presentation French FAQ
+- [ ] April 9 — Call Rachel Step Entreprendre 9am
+- [ ] April 10 — RT1 Founding Advisory Cohort
+
 ## 🔴 CRITICAL — Cowork + Sylvia Integration
 
 - [ ] Add Supabase service role key to okka-secrets.txt
@@ -44,12 +53,3 @@ Last updated: 30 March 2026
 - [x] GitHub + ORCID connection — DONE 30 Mar 2026
 - [ ] Investigate why ORCID (0009-0006-9741-549X) is not showing DOI entries — Zenodo records exist but not appearing
 - [ ] Cowork bridge improvements with Lova
-
-## ⚡ URGENT DEADLINES
-
-- [ ] **March 31 (TOMORROW)** — SAACE profile update
-- [ ] **March 31 (TOMORROW)** — Reply to Rachel's email
-- [ ] April 7 — MEi:CogSci Vienna motivation letter
-- [ ] April 8 — Rachel presentation French FAQ
-- [ ] April 9 — Call Rachel Step Entreprendre 9am
-- [ ] April 10 — RT1 Founding Advisory Cohort
