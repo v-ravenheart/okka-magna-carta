@@ -47,6 +47,8 @@ Last updated: 30 March 2026
 
 ## ⚡ URGENT DEADLINES
 
+- [ ] **March 31 (TOMORROW)** — SAACE profile update
+- [ ] **March 31 (TOMORROW)** — Reply to Rachel's email
 - [ ] April 7 — MEi:CogSci Vienna motivation letter
 - [ ] April 8 — Rachel presentation French FAQ
 - [ ] April 9 — Call Rachel Step Entreprendre 9am

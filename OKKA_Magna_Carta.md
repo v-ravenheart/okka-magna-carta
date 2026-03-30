@@ -102,6 +102,8 @@ One month ago the organism was a collection of intentions. This week it became a
 | T-025 | Rachel presentation — French FAQ | ASBL | Step Entreprendre | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Apr 8 | — |
 | T-026 | Call Rachel — Step Entreprendre 9am | ASBL | Step Entreprendre | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Apr 9 | — |
 | T-027 | RT1 — Founding Advisory Cohort first Round Table | Startup | Governance | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Apr 10 | — |
+| T-028 | SAACE profile update | ASBL | Step Entreprendre | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Mar 31 | — |
+| T-029 | Reply to Rachel's email | ASBL | Step Entreprendre | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Mar 31 | — |
 
 ---
 
