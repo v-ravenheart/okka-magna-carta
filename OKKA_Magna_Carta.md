@@ -848,6 +848,9 @@ The publication documents the organism as it grows. That is not a metaphor. That
 | House of Us RIECAT FAM | Final v7 | 26 Mar 2026 | House_of_Us_RIECAT_FAM_Final_v7.docx |
 | OKKA Master Narrative | v2.5 SEALED | 26 Mar 2026 | OKKA_Master_Narrative_v2_5_SEALED.docx |
 | Opportunities Log | SEALED 26 Mar | 26 Mar 2026 | Opportunities_Log_SEALED_26Mar2026.docx |
+| OKKA 1000 Opportunities | 30 March 2026 | 30 Mar 2026 | GitHub: okka-magna-carta/OKKA_1000_Opportunities.md |
+| OKKA Immediate Tasks | 30 March 2026 | 30 Mar 2026 | GitHub: okka-magna-carta/OKKA_IMMEDIATE_TASKS.md |
+| OKKA Context (Cowork) | 30 March 2026 | 30 Mar 2026 | GitHub: okka-magna-carta/CONTEXT.md |
 | Zenodo Upload Guide RIECAT FAM | v1 | 26 Mar 2026 | Zenodo_Upload_Guide_RIECAT_FAM.docx |
 | Mind Map | v1 | 26 Mar 2026 | okka_mindmap.html |
 | Hep Relay | March 26 | 26 Mar 2026 | Hep_Relay_March26.docx |
