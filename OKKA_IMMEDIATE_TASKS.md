@@ -4,7 +4,7 @@ Last updated: 30 March 2026
 
 ## 🔴 CRITICAL — Cowork + Sylvia Integration
 
-- [ ] Add Supabase service role key to okka-secrets.txt
+- [x] Add Supabase service role key to okka-secrets.txt
 - [ ] Test Cowork reads Sylvia funding_applications table
 - [ ] Test Cowork writes to Sylvia decisions table
 - [ ] Install Google Drive MCP connector (steipete)
@@ -14,13 +14,13 @@ Last updated: 30 March 2026
 
 ## 🟡 THIS WEEK — Cowork Operational
 
-- [ ] Add "Last updated" permanent header to Magna Carta
+- [x] Add "Last updated" permanent header to Magna Carta
 - [ ] Set up Monday recurring task — weekly organisation brief
 - [ ] Set up Tuesday recurring task — urgent email check (Gmail)
 - [ ] Set up Wednesday recurring task — content prep for Frankie
 - [ ] Set up Thursday recurring task — expansion tasks (grants, applications)
 - [ ] Set up Friday recurring task — weekly review
-- [ ] Map Google Drive full folder structure
+- [x] Map Google Drive full folder structure
 - [ ] Delete old [00. OKKA.EXPANDED INTELLIGENCE] from Cowork sidebar
 
 ## 🔵 NEXT WEEK
