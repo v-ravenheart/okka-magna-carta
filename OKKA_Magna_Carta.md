@@ -27,13 +27,72 @@ Speed 2 — the living execution layer, the neural network, the chronicle of wha
 
 ---
 
+## The OKKA Organism — Constitutional Definition
+
+OKKA is one organism. It is not a company. It is not a product. It is a structured intelligence system built to expand human agency in the AI era. It expresses itself through four distinct but interconnected entities — each with a defined legal form, function, and relationship to the whole.
+
+**The architecture is not parallel. It is layered.**
+
+---
+
+**Layer 1 — OKKA Expanded Intelligence OÜ**
+*The forest. The anchor. The permanent identity.*
+
+Estonian private limited company, reg. 17460303. The legal and intellectual core of the entire organism. Holds all IP, frameworks, books, research programme, and brand identity. Does not do client work. Does not build products directly. It owns and licenses. It is the entity that will not be sold, will not be diluted, and will persist across all ventures, all subsidiaries, all exits. Every other entity operates under a license from this one.
+
+**Layer 2a — OKKA AI Ventura**
+*The startup division. The product layer. The commercial expression.*
+
+Currently an internal division of the OÜ — no separate legal registration at this stage. Definition: a division of OKKA Expanded Intelligence for early stage venture and startup creation. All commercial products live here — Sylvia, Frankie, Freya, Sofia, and all future products. When ready, Ventura registers as its own subsidiary OÜ. Individual products may become their own subsidiary spin-offs of Ventura as they scale or attract independent investment. Ventura licenses all IP from the OÜ.
+
+**Layer 2b — OKKA House of Us**
+*The research institute. The social mission. The current revenue engine.*
+
+Full name: Research Institute for Expanded Cognition and Applied Technology For Awesome Minds. Belgian ASBL in formation. The social and research arm of the organism. Delivers the Ok AI Now What academy, neurodivergent research across 15 territories, and social economy products (Jean, Serena). Licenses IP from the OÜ. Currently the primary revenue engine — consulting and academy delivery here funds the whole organism while Ventura builds toward investment.
+
+**Layer 3 — The Academic Road**
+*The research track. The intellectual root system. Not a legal entity.*
+
+No company form. A track operated under ORCID 0009-0006-9741-549X. Publications, conferences, PhD pursuit, and the 124-entry research programme. Feeds all three entities above with intellectual credibility, timestamped IP, and research capital. Cannot be bought, sold, or separated from the founder.
+
+---
+
+**The relationship in one sentence:**
+The OÜ owns everything → licenses to Ventura (commercial) and House of Us (social and research) → the Academic Road feeds all three with knowledge, credibility, and IP provenance.
+
+**The constitutional rule:**
+No entity in this organism can override the OÜ. No product can claim ownership of IP it licenses. No commercial pressure can dissolve the social mission of House of Us. No investment in Ventura can reach back into the OÜ without explicit founder consent. The layers protect each other by design.
+
+---
+
+## The Organism — How It Is Structured
+
+OKKA is one organism with four expressions. They are not parallel — they are layered. Each has a distinct function and a defined relationship to the others.
+
+**OKKA Expanded Intelligence OÜ** (the forest · the anchor)
+The legal and intellectual core. Holds all IP, frameworks, books, research programme, and brand. Cannot be sold. Does not do client work. Licenses everything to the entities below it. This is the organism's permanent identity — it persists across all ventures, all exits, all futures.
+
+**OKKA AI Ventura** (the startup division · the product layer)
+Currently an internal division of the OÜ. When ready, becomes a subsidiary OÜ. All commercial products live here — Sylvia, Frankie, Freya, Sofia, and future products. Individual products may become their own subsidiary spin-offs of Ventura as they scale or attract investment. Ventura is where the organism builds and sells. It licenses IP from the OÜ.
+
+**OKKA House of Us** (the ASBL · the research and social layer)
+Research Institute for Expanded Cognition and Applied Technology For Awesome Minds. Belgian ASBL in formation. The social mission arm. Delivers the academy programme, neurodivergent research, and community products (Jean, Serena). Licenses IP from the OÜ. The current revenue engine — client work here funds the whole organism while Ventura builds toward investment.
+
+**The Academic Road** (the research track · not a legal entity)
+No company. A track. Publications, conferences, PhD pursuit, and research programme under ORCID 0009-0006-9741-549X. Feeds all three entities above with intellectual credibility, timestamped IP, and research capital. Cannot be bought or sold.
+
+**The relationship in one line:**
+OÜ owns everything → licenses to Ventura (commercial) and House of Us (social) → Academic Road feeds all three with knowledge and credibility.
+
+---
+
 ## Where we are right now
 
 One legal entity exists: **OKKA Expanded Intelligence OÜ** (Estonia, reg. 17460303), registered 16 March 2026. It holds the IP, the brand, the books, the frameworks, the research programme.
 
-The **RIECAT FAM ASBL** (House of Us) is forming in Belgium. Accepted into Step Entreprendre. First session with Rachel 9 April. SAACE funding pending — a shark tank session at unknown future date is the approval gate. Current personal runway: 6 months until SAACE approved. Belgian ID filed. Founding council at 4 confirmed members.
+**OKKA House of Us** — Research Institute for Expanded Cognition and Applied Technology For Awesome Minds (commonly: ASBL / House of Us) is forming in Belgium. Accepted into Step Entreprendre. First session with Rachel 9 April. SAACE funding pending — a shark tank session at unknown future date is the approval gate. Current personal runway: 6 months until SAACE approved. Belgian ID filed. Founding council at 4 confirmed members.
 
-The **Startup Oak** does not exist yet as a legal entity. It opens when the ASBL generates €10,000 in capital. The platform (sylvia.okka.ai) is live as a prototype. YC Startup School accepted.
+**OKKA AI Ventura** (commonly: Ventura) is the startup and product division of OKKA Expanded Intelligence OÜ. Currently operating as an internal division — no separate legal entity yet. Definition: a division of OKKA Expanded Intelligence for early stage venture and startup creation. All products live here. When ready, Ventura becomes its own subsidiary OÜ. Individual products may become spin-off subsidiaries of Ventura over time. The platform (sylvia.okka.ai) is live as a prototype. YC Startup School accepted.
 
 The **Academic Road** is active. 13 Zenodo entries live. MEi:CogSci Vienna deadline April 7 — 11 days. Brain Congress Porto Alegre June 3–6 — first documentary interviews planned.
 
@@ -59,7 +118,7 @@ One month ago the organism was a collection of intentions. This week it became a
 
 **April 9:** First session with Rachel, Step Entreprendre.
 
-**April 10:** RT1 — Founding Advisory Cohort first Round Table.
+**April 10:** RT1 — Founding Advisory Cohort first Round Table. *(deferred to end of year — post commercial launch)*
 
 **May–June:** Brazil trip. Brain Congress Porto Alegre. Pedro Schmidt briefed and invited to founding council. First documentary interviews.
 
@@ -151,7 +210,7 @@ Read the Executive Summary to know the moment. Read the Cheat Sheet to find any 
 |--------|--------|--------|
 | OKKA Expanded Intelligence OÜ | Reg. 17460303 | ✅ EXISTS |
 | RIECAT FAM ASBL | Belgian ID: 870707 57883 | ⏳ FORMING |
-| OKKA Startup OÜ | — | ⏳ PENDING CREATION |
+| OKKA AI Ventura | Division of OÜ (internal) · future subsidiary OÜ | ⏳ PENDING · currently a division |
 
 ## OÜ Banking Details
 
@@ -454,7 +513,7 @@ Full title: Ok, AI. Now What? The Post-Job Survival Guide to the AI Economy
 |--------|------|--------|--------|
 | OKKA Expanded Intelligence OÜ | Estonian OÜ | ✅ EXISTS | 17460303 |
 | RIECAT FAM ASBL | Belgian ASBL | ⏳ FORMING | Belgian ID: 870707 57883 |
-| OKKA Startup OÜ | Estonian OÜ | ⏳ PENDING | Opens when ASBL generates €10K |
+| OKKA AI Ventura | Division of OÜ → future subsidiary | ⏳ PENDING · internal division now | No registration needed until subsidiary phase |
 | Academic Road | Track — no legal entity | ✅ ACTIVE | ORCID: 0009-0006-9741-549X |
 
 ### Entity Sequence and Capital Flow
@@ -470,8 +529,8 @@ Independent of the OÜ. Not connected yet. Generates revenue through consulting,
 **Step 3 — SAACE approved** (pending shark tank)
 Step Entreprendre accepted — we are in the programme. The shark tank session (date TBD) is the approval gate for SAACE funding. When approved: 18–24 months personal runway. Current runway without SAACE: 6 months. This is the critical financial milestone.
 
-**Step 4 — Startup OÜ opens** (when ASBL has €10K)
-ASBL revenue funds the €10,000 needed to open the startup subsidiary. The startup holds the SaaS platform, the four birds, the commercial product layer. It is a subsidiary of the OÜ.
+**Step 4 — OKKA AI Ventura becomes subsidiary** (when ASBL has €10K)
+Ventura currently operates as an internal division of OKKA Expanded Intelligence OÜ — no registration required at this stage. When ASBL generates €10,000 capital, Ventura registers as a separate subsidiary OÜ. All products (Sylvia, Frankie, Freya, Sofia and future products) live under Ventura. Individual products may become their own subsidiary spin-offs of Ventura as they scale or attract investment.
 
 **Step 5 — IP licensing flows**
 OÜ holds IP → licenses to ASBL (for academy delivery, books, methodology) → licenses to Startup when it opens (for platform and products). This is how the holding entity generates income without doing operational work.
@@ -554,7 +613,7 @@ Products and subsidiaries operate through licensing agreements from the OÜ — 
 ### The IP Vault — Initial Registry
 
 *The first five core IP elements of OKKA Expanded Intelligence OÜ.*
-*Status: PENDING FORMAL ASSIGNMENT — conceptually locked, contractual assignment pending session with Edgars Gūte.*
+*Status: PENDING FORMAL ASSIGNMENT — conceptually locked, contractual assignment pending legal session.*
 *This is the foundation. Everything commercial is built on top of these.*
 
 | # | Name | Type | Description | Timestamp | Status |
@@ -573,7 +632,7 @@ Products and subsidiaries operate through licensing agreements from the OÜ — 
 
 All IP currently held personally by Bibiana Xausa Bosak. Target: formally assigned to OKKA EI OÜ via IP Assignment Agreement.
 
-**Action required:** Edgars Gūte to draft and review the IP Assignment Agreement (Founder → OÜ). Once signed, Zenodo metadata updated to reflect OÜ as rights holder.
+**Action required:** IP Assignment Agreement (Founder → OÜ) to be drafted and signed. Once signed, Zenodo metadata updated to reflect OÜ as rights holder. Legal session to be scheduled.
 
 **ORCID authorship remains personal** — only the rights holder field changes in Zenodo metadata. Authorship = Bibiana Xausa Bosak always.
 
@@ -581,7 +640,7 @@ All IP currently held personally by Bibiana Xausa Bosak. Target: formally assign
 OÜ → licenses to ASBL (academy programme, books, methodologies for delivery)
 OÜ → licenses to Startup OÜ when created (platform, the birds, product IP)
 
-**Status: PENDING — session needed
+**Status: PENDING — legal session to be scheduled**
 
 ### Legal Ledger — IP & Knowledge Registry
 
@@ -1008,18 +1067,20 @@ One idea per week becomes everything. The Field Note is the canonical text (Subs
 
 ---
 
-## Branch 2 — Startup / OKKA Platform
+## Branch 2 — OKKA AI Ventura
 
-**Name:** OKKA Startup OÜ *(name TBD — to confirm when entity opens)*
-**Form:** Estonian OÜ — formation pending
-**Trigger:** Opens when ASBL generates €10,000 capital
-**Platform:** sylvia.okka.ai *(live as prototype, migrates when entity opens)*
+**Official name:** OKKA AI Ventura
+**Common name:** Ventura · The Startup
+**Definition:** A division of OKKA Expanded Intelligence for early stage venture and startup creation
+**Current form:** Internal division of OKKA Expanded Intelligence OÜ — no separate registration required at this stage
+**Future form:** Subsidiary OÜ — registers when ASBL generates €10,000 capital
+**Platform:** sylvia.okka.ai *(live as prototype)*
 
-**Full Magna Carta:** OKKA_Startup_Magna_Carta.md *(to build — stub only until entity created)*
+**Full Magna Carta:** OKKA_Ventura_Magna_Carta.md *(to build)*
 
 ### Mini-Trunk Summary
 
-**Status:** FORMATION PENDING — everything here is the specification of what exists when it opens
+**Status:** OPERATING AS INTERNAL DIVISION — all products live here now. Subsidiary registration pending capital trigger.
 
 **The Birds:**
 | Bird | Function | Status |
@@ -1039,7 +1100,7 @@ One idea per week becomes everything. The Field Note is the canonical text (Subs
 |--------|--------|-------|
 | Core Birds (Sylvia/Frankie/Freya/Sofia) | ✅/⏳ | Sylvia + Sofia live · Frankie + Freya in build |
 | Telegram Mini App | ⏳ IN BUILD | 3 sprints · Launch end March/April |
-| Founding Advisory Cohort | ✅ ACTIVE | 12 seats · RT1 April 10 |
+| Founding Advisory Cohort | ✅ ACTIVE | 12 seats · RT1 deferred to end of year |
 | YC Startup School | ✅ ACCEPTED | Videos in progress |
 | YC Summer Batch | ⏳ IN PROGRESS | Application being built |
 | Anthropic Startup | ⏳ TO APPLY | Priority |
@@ -1230,6 +1291,7 @@ Every opportunity, every application, every project, every decision is a node. E
 
 | Date | What happened |
 |------|---------------|
+| 29 March 2026 | OKKA AI Ventura named and defined — startup branch renamed from "Startup Oak" to OKKA AI Ventura · currently internal division · subsidiary when ASBL generates €10K · individual products may become spin-off subsidiaries. OKKA House of Us full name clarified. Edgars Gūte role corrected — founding council member only, not legal counsel. All Edgars references in legal sections updated to "legal session to be scheduled." RT1 deferred to end of year. GitHub persistent memory bridge established. Tools Log created. Legal Ledger and Execution Ledger added. |
 | 30 March 2026 | Cowork integration complete. Mac + Dell + Dispatch three-surface execution centre set up. GitHub repo cloned locally. Git push working. Cowork Global Instructions set. [00. OKKA FOREST] folder structure created on SSD. CONTEXT.md and okka-secrets.txt in place. Claude.ai project renamed to [OKKA — THE FOREST] with 10 chats structured by Oak layer. Project Instructions updated with chat structure and calendar map. Three urgent deadlines added to Okka Deadlines calendar: April 7 MEi:CogSci Vienna, April 8 Rachel presentation, April 10 RT1. |
 | 27 March 2026 (update 2) | OCA / Original U architecture added to Structure section. Three-layer separation locked: OÜ (source) · Startup (expression) · ASBL (extension). IP Vault created with first 5 core IP elements. Five-step IP mechanism locked. Critical legal note added: protection is contractual not structural. Relay from Strategy seat integrated. |
 | 27 March 2026 | Thursday of Expansion. Continued from Magna Carta v2.3 (handed over by Hep). OÜ registration confirmed (17460303). ASBL accepted into Step Entreprendre. Edgars Gūte confirmed as founding council member. Omar Tackla confirmed as technical cofounder. Awesome Minds Series architecture locked (15 volumes, 4 parts, 3 outputs). Ok AI Now What academy documented as deployable. Substack launched. YC Startup School accepted. Forest Magna Carta written in first clean pass. Cheat Sheet v1.1 built. Mind map built. Principle 5 renamed from Ancient Roads to The Giant Shoulders. Three founding crises confirmed: post-job economy · AI literacy gap · cognitive overload and absence of relief. 11-Layer Framework (OSF-100) embedded. 6-month content calendar embedded. Document Registry created. All confirmed DOIs updated. |
