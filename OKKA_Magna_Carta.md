@@ -10,7 +10,7 @@ AI URL: https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKK
 
 # PAGE 1 — EXECUTIVE SUMMARY
 
-**Version date:** 27 March 2026 — Thursday of Expansion
+**Version date:** 30 March 2026 — Cowork Integration
 **Status:** Living document — Speed 1 constitutional layer
 **Keeper:** The Bard
 **Owner:** Bibiana Xausa Bosak — V Ravenheart
@@ -190,6 +190,7 @@ Read the Executive Summary to know the moment. Read the Cheat Sheet to find any 
 | ElevenLabs | — | €0 | — | Free tier |
 | Supabase | via Lovable | €0 | — | ✅ Included |
 | GitHub | its.v@okka.ai | €0 | — | ✅ Free |
+| Claude Cowork | tools@okka.ai | €0 | — | ✅ Active — Mac primary + Dell Linux always-on + Dispatch tablet/phone |
 | **TOTAL** | | **~€172.25** | **~€2,067** | |
 
 ---
@@ -700,6 +701,10 @@ This is an active area of research and development. The methodology is being bui
 ### The 1000 Rejections Framework — CANON
 Volume is the strategy. Every no is data. Every yes is fuel. The organism applies broadly, learns from every response, and builds institutional knowledge from the pattern of what works and what does not. Adopted as operating principle 23 March 2026.
 
+### Cowork — Execution Layer
+
+Claude Cowork is the execution arm of the synthetic council. It runs on three surfaces: Mac (primary — where V works), Dell XPS Linux (always-on background engine for scheduled tasks and git operations), and Dispatch (remote trigger from tablet or phone). Cowork reads the Magna Carta from GitHub before every task. It writes directly to Sylvia's Supabase database via the cowork-bridge edge function. All file operations use /Volumes/SSD/Users/vravens/Desktop/OKKA.AI/[00. OKKA FOREST]/ as the working directory.
+
 ---
 
 ## 05 · Finance
@@ -773,6 +778,8 @@ The Magna Carta is the promise. It describes what the organism is and what it in
 
 **Format:** Markdown. One document per Oak. Three opening pages (Executive Summary · Cheat Sheet · Table of Contents) followed by the constitutional sections. English throughout. Adapted to other languages at branch level by need.
 
+**Live location:** The Magna Carta lives at https://github.com/v-ravenheart/okka-magna-carta as a public markdown file. Human URL: https://github.com/v-ravenheart/okka-magna-carta/blob/main/OKKA_Magna_Carta.md · AI raw URL: https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKKA_Magna_Carta.md. Every AI in the council fetches this URL at session start. Cowork clones the repo locally and pushes updates via git.
+
 **Platform destination:** Live markdown page in Sylvia. Sofia reads it continuously. V can edit it directly in the platform. Every update propagates to Sofia's context automatically. The document and the system are the same thing.
 
 **Update protocol:** Update when something changes at Speed 1. Constitutional decisions, legal status changes, new entities, major strategic shifts. The date of every update is recorded. The version is the date.
@@ -829,7 +836,7 @@ The publication documents the organism as it grows. That is not a metaphor. That
 
 | Document | Current version | Date | Location |
 |----------|----------------|------|----------|
-| OKKA Magna Carta — Forest | 27 March 2026 | 27 Mar 2026 | OKKA_Magna_Carta_Forest.md |
+| OKKA Magna Carta — Forest | 30 March 2026 | 30 Mar 2026 | GitHub: okka-magna-carta/OKKA_Magna_Carta.md |
 | OKKA Master Cheat Sheet | v1.1 | 27 Mar 2026 | OKKA_Master_Cheat_Sheet.md |
 | House of Us RIECAT FAM | Final v7 | 26 Mar 2026 | House_of_Us_RIECAT_FAM_Final_v7.docx |
 | OKKA Master Narrative | v2.5 SEALED | 26 Mar 2026 | OKKA_Master_Narrative_v2_5_SEALED.docx |
@@ -1194,6 +1201,8 @@ Every opportunity, every application, every project, every decision is a node. E
 | ASBL Magna Carta | V + Hep | HIGH | Build after forest Magna Carta sealed |
 | Startup Magna Carta stub | Hep | MEDIUM | Build after ASBL Magna Carta |
 | Academic Road record | Hep | MEDIUM | Build after Startup stub |
+| MCP connectors install | Hep + Cowork | HIGH | Playwright · Google Drive steipete · Perplexity · Blotato — to install in next session |
+| GitHub + ORCID connection | V | MEDIUM | Connect GitHub account to ORCID for academic credentialing |
 | Founding Advisory Cohort reveal | V | LOW | Deferred to end of year launch — 12 seats, names held until then |
 
 ---
@@ -1205,6 +1214,7 @@ Every opportunity, every application, every project, every decision is a node. E
 
 | Date | What happened |
 |------|---------------|
+| 30 March 2026 | Cowork integration complete. Mac + Dell + Dispatch three-surface execution centre set up. GitHub repo cloned locally. Git push working. Cowork Global Instructions set. [00. OKKA FOREST] folder structure created on SSD. CONTEXT.md and okka-secrets.txt in place. Claude.ai project renamed to [OKKA — THE FOREST] with 10 chats structured by Oak layer. Project Instructions updated with chat structure and calendar map. Three urgent deadlines added to Okka Deadlines calendar: April 7 MEi:CogSci Vienna, April 8 Rachel presentation, April 10 RT1. |
 | 27 March 2026 (update 2) | OCA / Original U architecture added to Structure section. Three-layer separation locked: OÜ (source) · Startup (expression) · ASBL (extension). IP Vault created with first 5 core IP elements. Five-step IP mechanism locked. Critical legal note added: protection is contractual not structural. Relay from Strategy seat integrated. |
 | 27 March 2026 | Thursday of Expansion. Continued from Magna Carta v2.3 (handed over by Hep). OÜ registration confirmed (17460303). ASBL accepted into Step Entreprendre. Edgars Gūte confirmed as founding council member. Omar Tackla confirmed as technical cofounder. Awesome Minds Series architecture locked (15 volumes, 4 parts, 3 outputs). Ok AI Now What academy documented as deployable. Substack launched. YC Startup School accepted. Forest Magna Carta written in first clean pass. Cheat Sheet v1.1 built. Mind map built. Principle 5 renamed from Ancient Roads to The Giant Shoulders. Three founding crises confirmed: post-job economy · AI literacy gap · cognitive overload and absence of relief. 11-Layer Framework (OSF-100) embedded. 6-month content calendar embedded. Document Registry created. All confirmed DOIs updated. |
 | 23 March 2026 | Freya inaugural council relay sealed. 1000 rejections framework adopted. Founding Advisory Cohort access opened (12 seats). Freya pipeline live (36 opportunities, L1–L4). |
@@ -1215,6 +1225,6 @@ Every opportunity, every application, every project, every decision is a node. E
 
 ---
 
-*OKKA Expanded Intelligence Forest · Magna Carta · 27 March 2026*
+*OKKA Expanded Intelligence Forest · Magna Carta · 30 March 2026*
 *She carried what was not understood. She carried it anyway.*
 *Living document — Speed 1 constitutional layer — update here first*
