@@ -95,6 +95,13 @@ One month ago the organism was a collection of intentions. This week it became a
 | T-018 | Lovable — confirm yearly cost + renewal date | OÜ | Tools | 28 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | — |
 | T-019 | Business credit card decision — Amex vs Beobank | OÜ | Finance | 27 Mar 2026 | — | 28 Mar 2026 | 🔴 NOT STARTED | T-004 |
 | T-020 | Magna Carta corrections from 28 Mar session — apply remaining | Forest | Governance | 28 Mar 2026 | 28 Mar 2026 | 28 Mar 2026 | 🟡 IN PROGRESS | — |
+| T-021 | Cowork + Sylvia integration — MCP connectors, Supabase bridge | Forest | Infrastructure | 30 Mar 2026 | 30 Mar 2026 | 30 Mar 2026 | 🟡 IN PROGRESS | — |
+| T-022 | GitHub + ORCID connection | Academic | Credentialing | 30 Mar 2026 | 30 Mar 2026 | 30 Mar 2026 | ✅ CLOSED | — |
+| T-023 | ORCID not showing DOI entries — investigate Zenodo ↔ ORCID sync | Academic | Publications | 30 Mar 2026 | — | 30 Mar 2026 | 🔴 NOT STARTED | T-022 |
+| T-024 | MEi:CogSci Vienna — motivation letter | Academic | Masters | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Apr 7 | — |
+| T-025 | Rachel presentation — French FAQ | ASBL | Step Entreprendre | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Apr 8 | — |
+| T-026 | Call Rachel — Step Entreprendre 9am | ASBL | Step Entreprendre | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Apr 9 | — |
+| T-027 | RT1 — Founding Advisory Cohort first Round Table | Startup | Governance | 30 Mar 2026 | — | 30 Mar 2026 | ⚡ URGENT · Apr 10 | — |
 
 ---
 
@@ -1202,7 +1209,8 @@ Every opportunity, every application, every project, every decision is a node. E
 | Startup Magna Carta stub | Hep | MEDIUM | Build after ASBL Magna Carta |
 | Academic Road record | Hep | MEDIUM | Build after Startup stub |
 | MCP connectors install | Hep + Cowork | HIGH | Playwright · Google Drive steipete · Perplexity · Blotato — to install in next session |
-| GitHub + ORCID connection | V | MEDIUM | Connect GitHub account to ORCID for academic credentialing |
+| GitHub + ORCID connection | V | ✅ CLOSED | Connected 30 Mar 2026 |
+| ORCID not showing DOI entries | V + Cowork | MEDIUM | Zenodo records exist (13 live) but not appearing in ORCID profile — investigate sync |
 | Founding Advisory Cohort reveal | V | LOW | Deferred to end of year launch — 12 seats, names held until then |
 
 ---

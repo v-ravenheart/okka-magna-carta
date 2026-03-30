@@ -4,7 +4,7 @@ Last updated: 30 March 2026
 
 ## 🔴 CRITICAL — Cowork + Sylvia Integration
 
-- [x] Add Supabase service role key to okka-secrets.txt
+- [ ] Add Supabase service role key to okka-secrets.txt
 - [ ] Test Cowork reads Sylvia funding_applications table
 - [ ] Test Cowork writes to Sylvia decisions table
 - [ ] Install Google Drive MCP connector (steipete)
@@ -14,19 +14,20 @@ Last updated: 30 March 2026
 
 ## 🟡 THIS WEEK — Cowork Operational
 
-- [x] Add "Last updated" permanent header to Magna Carta
+- [ ] Add "Last updated" permanent header to Magna Carta
 - [ ] Set up Monday recurring task — weekly organisation brief
 - [ ] Set up Tuesday recurring task — urgent email check (Gmail)
 - [ ] Set up Wednesday recurring task — content prep for Frankie
 - [ ] Set up Thursday recurring task — expansion tasks (grants, applications)
 - [ ] Set up Friday recurring task — weekly review
-- [x] Map Google Drive full folder structure
+- [ ] Map Google Drive full folder structure
 - [ ] Delete old [00. OKKA.EXPANDED INTELLIGENCE] from Cowork sidebar
 
 ## 🔵 NEXT WEEK
 
 - [ ] Telegram + Sofia memory architecture session (April 5 — already in calendar)
-- [ ] GitHub + ORCID connection
+- [x] GitHub + ORCID connection — DONE 30 Mar 2026
+- [ ] Investigate why ORCID (0009-0006-9741-549X) is not showing DOI entries — Zenodo records exist but not appearing
 - [ ] Cowork bridge improvements with Lova
 
 ## ⚡ URGENT DEADLINES
