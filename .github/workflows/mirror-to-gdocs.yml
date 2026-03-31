@@ -32,7 +32,7 @@ jobs:
           import os, json
           from googleapiclient.discovery import build
           from google.oauth2 import service_account
-          DOC_ID = '1EjmQHD2puGfntK-hesuLt-F9W28y8xM8-h06mdqjAJw'
+          DOC_ID = '1vsA91VtPwfdLhwZpSAPfSovSV4v6NgZmbv-I3UnKFXQ'
           with open('OKKA_Magna_Carta.md', 'r') as f:
               content = f.read()
           creds = service_account.Credentials.from_service_account_info(
