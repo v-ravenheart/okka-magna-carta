@@ -1,0 +1,27 @@
+# OKKA Expanded Intelligence — AI Document Registry
+# Owner: Bibiana Xausa Bosak — V Ravenheart
+# Updated: automatically on every push
+
+## Primary Documents
+
+### Magna Carta — Constitutional Document
+URL: https://docs.google.com/document/d/1EjmQHD2puGfntK-hesuLt-F9W28y8xM8-h06mdqjAJw/export?format=txt
+GitHub: https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKKA_Magna_Carta.md
+Description: The constitutional document of the OKKA Forest. Speed 1 — changes when the organism changes what it IS. Always fetch the Google Doc URL for the most current version.
+
+### Seat Documents (Speed 2 — operational layer)
+Base path: https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/seats/
+
+00-1-bard-chronicle.md — The Bard · constitutional memory
+00-2-maestro-forest-map.md — Il Maestro · orchestration
+00-3-mercury-operations.md — Mercury · operations and tasks
+01-1-roots-books-reading.md — Deep Reader · books and IP reading
+01-2-roots-ip-registry.md — IP Keeper · knowledge formalisation
+02-1-freya-strategy.md — Freya · strategy and finance
+02-2-aura-legal.md — Aura · legal and contracts
+02-3-frankie-master-brand.md — Frankie Master · brand strategy
+02-4-frankie-content-production.md — Frankie Content · production
+02-5-frankie-branding-design.md — Frankie Branding · visual identity
+03-1-ventura-platform.md — Hep Ventura · platform build
+03-2-serena-house-of-us.md — Serena · ASBL and research
+03-3-drm-academic-road.md — Doctor M · academic road
