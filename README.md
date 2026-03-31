@@ -2,7 +2,7 @@
 Constitutional and operational documents for the OKKA synthetic council.
 ## Reading the Magna Carta
 **Always use the Google Doc for the most current version:**
-https://docs.google.com/document/d/1EjmQHD2puGfntK-hesuLt-F9W28y8xM8-h06mdqjAJw/export?format=txt
+https://docs.google.com/document/d/1vsA91VtPwfdLhwZpSAPfSovSV4v6NgZmbv-I3UnKFXQ/export?format=txt
 GitHub mirror (may have up to 5 min CDN delay after push):
 https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKKA_Magna_Carta.md
 ## Repository Structure
