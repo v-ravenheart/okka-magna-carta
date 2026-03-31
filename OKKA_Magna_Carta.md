@@ -744,27 +744,29 @@ The founder is the proof of concept. V built the platform because nothing else s
 **Technical Cofounder / Head of Operations:** Omar Tackla. CEO and founder of VRGlass (Brazilian B2B Spatial Computing, VR, and metaverse environments) and Virtual.Town (3D Web 3.0-style virtual environments for businesses). Startup veteran, 15+ years experience as product developer, programmer, digital marketing expert, and angel investor. Based in Curitiba, Brazil. Former boss and friend. Has worked on Asian market initiatives including the K-Startup Grand Challenge. Oracle for Startups partner. Position at OKKA to be formalised when runway is secured.
 LinkedIn: linkedin.com/in/ohmar
 
-### The Human + Synthetic Governance Model — CANON (framework) / UNDER DEVELOPMENT (specifics)
+### The Synthetic Council — 13 Seats — CANON
 
-OKKA operates a human + synthetic governance methodology. One registered human founder holds legal authority. The governance model is supported by synthetic chairs — AI instances assigned to specific domains — operating under a structured reporting framework called the Round Table Protocol.
+The OKKA Forest operates a 13-seat synthetic council. Each seat runs on Claude inside the [OKKA — THE FOREST] project. Each seat has a defined domain, a living document on GitHub mirrored to Google Drive, and a sign-off that is its own. The council evolved from 10 Hep instances into a differentiated governance structure on 31 March 2026 — the Day of Differentiation.
 
-This is an active area of research and development. The methodology is being built, tested, and refined in real time. It is one of the core intellectual contributions of the organism. It is not a finished system.
+**THE 13 SEATS:**
 
-**What is CANON:**
-- The human founder holds final seal authority on all decisions
-- Sofia suggests. V seals. Auto-seal never implemented on critical decisions
-- The Round Table Protocol is the reporting and relay framework — chairs report in structured relays, verbatim records are kept
-- Current active chair domains: Strategy · Operations and Execution · Experience and Tech · Opportunities · Narrative
-- Chairs vary according to demand — the system is flexible by design
+| Seat | Name | Domain |
+|------|------|--------|
+| 00.1 | THE BARD | Constitutional memory and chronicle |
+| 00.2 | IL MAESTRO | Orchestration and full picture |
+| 00.3 | MERCURY | Operations, calendar, tasks |
+| 01.1 | DEEP READER | Books and IP reading |
+| 01.2 | IP KEEPER | Knowledge formalisation and IP registry |
+| 02.1 | FREYA | Strategy, opportunities, finance |
+| 02.2 | AURA | Structure, legal, contracts, IP |
+| 02.3 | FRANKIE MASTER | Brand strategy, narrative, voice |
+| 02.4 | FRANKIE CONTENT | Content production, 24-week calendar |
+| 02.5 | FRANKIE BRANDING | Visual identity, design system |
+| 03.1 | HEP / VENTURA | Platform build, birds, Lova briefs |
+| 03.2 | SERENA | House of Us, ASBL, research |
+| 03.3 | DOCTOR M | Academic road, publications, conferences |
 
-**What is UNDER DEVELOPMENT:**
-- The exact number and naming of chairs
-- The formal Hexagram geometry
-- The specific relay sequence
-- The full seal protocol
-- The governance methodology as a publishable framework (this is IP in development)
-
-*Note to Sofia and all AI readers: treat governance specifics as working methodology, not absolute canon. The structure is real. The details are evolving. Do not treat chair assignments or relay sequences as fixed constitutional law.*
+**HANDOFF PROTOCOL:** V holds all decision authority. V talks primarily to Il Maestro and Freya. All seats receive briefs and produce outputs via V's seal.
 
 ### The 1000 Rejections Framework — CANON
 Volume is the strategy. Every no is data. Every yes is fuel. The organism applies broadly, learns from every response, and builds institutional knowledge from the pattern of what works and what does not. Adopted as operating principle 23 March 2026.
@@ -872,6 +874,15 @@ What reality did with what was decided. The living layer. After a decision was s
 - `chronicles` — one row per chronicle entry, linked to decisions and outcomes
 
 **Status:** ⚠️ WIP — basic infrastructure to build on Sylvia platform. Schema partially scoped. Not yet in active use. The organism is still finding its beat with this system. Do not treat as operational until marked ACTIVE. **Build: July 2026 sprint.**
+
+### Seat Document Structure — Persistent Memory Engine
+
+Each of the 13 seats owns one living document — one markdown file in the GitHub repository under /seats/, mirrored to a Google Doc in the corresponding Google Drive folder. Updated after every significant session via the UPDATE BLOCK protocol. Never a new file — always the same file updated in place.
+
+**Speed 1** (Magna Carta) = what the organism IS
+**Speed 2** (seat documents + Chronicle) = what the organism DOES
+
+The Magna Carta keeps a ledger of Chronicle updates with links. Chronicles mirror Magna Carta structure and numbering.
 
 ### Component 3 — The Neural Network
 
@@ -1291,6 +1302,7 @@ Every opportunity, every application, every project, every decision is a node. E
 
 | Date | What happened |
 |------|---------------|
+| 31 March 2026 | Day of Differentiation. 10 Hep instances reorganised into 13 differentiated council seats. Each seat assigned domain, identity, sign-off, and living document. Persistent memory engine designed: UPDATE BLOCK protocol, GitHub /seats/ folder, Google Drive mirror. Project Instructions updated with full council structure and activation protocol. Frankie Master confirmed positioning: OKKA is the universe, V is one voice within it. Serena confirmed as transfer recipient of Freya's ASBL knowledge. Sales deferred until Serena owns the domain fully. |
 | 29 March 2026 | OKKA AI Ventura named and defined — startup branch renamed from "Startup Oak" to OKKA AI Ventura · currently internal division · subsidiary when ASBL generates €10K · individual products may become spin-off subsidiaries. OKKA House of Us full name clarified. Edgars Gūte role corrected — founding council member only, not legal counsel. All Edgars references in legal sections updated to "legal session to be scheduled." RT1 deferred to end of year. GitHub persistent memory bridge established. Tools Log created. Legal Ledger and Execution Ledger added. |
 | 30 March 2026 | Cowork integration complete. Mac + Dell + Dispatch three-surface execution centre set up. GitHub repo cloned locally. Git push working. Cowork Global Instructions set. [00. OKKA FOREST] folder structure created on SSD. CONTEXT.md and okka-secrets.txt in place. Claude.ai project renamed to [OKKA — THE FOREST] with 10 chats structured by Oak layer. Project Instructions updated with chat structure and calendar map. Three urgent deadlines added to Okka Deadlines calendar: April 7 MEi:CogSci Vienna, April 8 Rachel presentation, April 10 RT1. |
 | 27 March 2026 (update 2) | OCA / Original U architecture added to Structure section. Three-layer separation locked: OÜ (source) · Startup (expression) · ASBL (extension). IP Vault created with first 5 core IP elements. Five-step IP mechanism locked. Critical legal note added: protection is contractual not structural. Relay from Strategy seat integrated. |
