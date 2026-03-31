@@ -5,7 +5,7 @@
 ## Primary Documents
 
 ### Magna Carta — Constitutional Document
-URL: https://docs.google.com/document/d/1EjmQHD2puGfntK-hesuLt-F9W28y8xM8-h06mdqjAJw/export?format=txt
+URL: https://docs.google.com/document/d/1vsA91VtPwfdLhwZpSAPfSovSV4v6NgZmbv-I3UnKFXQ/export?format=txt
 GitHub: https://raw.githubusercontent.com/v-ravenheart/okka-magna-carta/main/OKKA_Magna_Carta.md
 Description: The constitutional document of the OKKA Forest. Speed 1 — changes when the organism changes what it IS. Always fetch the Google Doc URL for the most current version.
 
