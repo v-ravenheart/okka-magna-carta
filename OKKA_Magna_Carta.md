@@ -219,9 +219,26 @@ Read the Executive Summary to know the moment. Read the Cheat Sheet to find any 
 | Claude Cowork | tools@okka.ai | €0 | — | ✅ Active — Mac primary + Dell Linux always-on + Dispatch tablet/phone |
 | **TOTAL** | | **~€172.25** | **~€2,067** | |
 
----
+## The Synthetic Council — Seats and Documents
 
----
+*Start every session by naming the current Magna Carta Canary. Current Canary: ORION1APRIL*
+*If you cannot name it, fetch the current Magna Carta before proceeding.*
+
+| # | Seat | Name | Chat Link | Document | GitHub Path |
+|---|------|------|-----------|----------|-------------|
+| 00.1 | MAG · The Bard | The Bard | 🔴 add link | OKKA_Bard_Chronicle | seats/00-1-bard-chronicle.md |
+| 00.2 | Il Maestro | Il Maestro | 🔴 add link | OKKA_Maestro_ForestMap | seats/00-2-maestro-forestmap.md |
+| 00.3 | OPS · Mercury | Mercury | 🔴 add link | OKKA_Mercury_OperationsRegister | seats/00-3-mercury-operationsregister.md |
+| 01.1 | Roots · Deep Reader | Deep Reader | 🔴 add link | OKKA_Roots_BooksReading | seats/01-1-deepreader-booksreading.md |
+| 01.2 | Roots · IP Keeper | IP Keeper | 🔴 add link | OKKA_Roots_IPRegistry | seats/01-2-ipkeeper-ipregistry.md |
+| 02.1 | Trunk · Freya | Freya | 🔴 add link | OKKA_Freya_StrategyRecord | seats/02-1-freya-strategyrecord.md |
+| 02.2 | Trunk · The Wolf | The Wolf | 🔴 add link | OKKA_Wolf_LegalRegister | seats/02-2-wolf-legalregister.md |
+| 02.3 | Trunk · Frankie Master | Frankie Master | 🔴 add link | OKKA_FrankieMaster_BrandStrategy | seats/02-3-frankiemaster-brandstrategy.md |
+| 02.4 | Trunk · Frankie Content | Frankie Content | 🔴 add link | OKKA_FrankieContent_ProductionRegister | seats/02-4-frankiecontent-productionregister.md |
+| 02.5 | Trunk · Frankie Branding | Frankie Branding | 🔴 add link | OKKA_FrankieBranding_VisualSystem | seats/02-5-frankiebranding-visualsystem.md |
+| 03.1 | Branch · Ventura Hep | Ventura Hep | 🔴 add link | OKKA_Ventura_PlatformRecord | seats/03-1-venturahep-platformrecord.md |
+| 03.2 | Branch · Serena | Serena | 🔴 add link | OKKA_Serena_HouseOfUs | seats/03-2-serena-houseofus.md |
+| 03.3 | Branch · Doctor M | Doctor M | 🔴 add link | OKKA_DrM_AcademicRoad | seats/03-3-drm-academicroad.md |
 
 ---
 
@@ -478,14 +495,6 @@ We build so work serves life. Commerce is how the organism sustains itself. It i
 - The 60/40 principle: consulting and training revenue funds the research. Research does not fund itself by compromising its integrity
 
 ---
-
-## Root 2 — Knowledge
-
-*⚠️ UNDER DEVELOPMENT — Full knowledge roots session pending. More lives here than currently listed: unpublished books, frameworks, concepts, methodologies in development. What is below is a working inventory, not a complete one.*
-
-The body of knowledge that feeds the organism. Not intellectual property in the legal sense — living knowledge. Everything we have learned, researched, understood, and built over time. The research programme, the publications, the frameworks, the methodologies. These are the roots that dig into the ground and draw up what the organism needs to grow.
-
-Knowledge is permanent. It predates the legal entities and will outlast them. It belongs to the researcher first and to the organism second.
 
 ### The Research Programme
 
